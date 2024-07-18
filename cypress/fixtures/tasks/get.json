@@ -1,0 +1,59 @@
+{
+    "list": {
+        "user": {
+            "name": "charles zavier",
+            "email": "charle@gmail.com",
+            "password": "1233456"
+        },
+        "tasks": [
+            {
+                "name": "Estud4r JavaScript",
+                "tags": [
+                    "qax"
+                ]
+            },
+            {
+                "name": "Estud4r typescript",
+                "tags": [
+                    "typescript",
+                    "ts"
+                ]
+            },
+            {
+                "name": "Estud4r Cypress",
+                "tags": [
+                    "cypress",
+                    "javascript",
+                    "nodejs"
+                ]
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "tony stark",
+            "email": "tony@hotmail.com",
+            "password": "123345"
+        },
+        "task":
+            {
+                "name": "construir armadura",
+                "tags": [
+                    "reator",
+                    "nano",
+                    "friday"
+                ]
+            }
+    },
+    "not_found": {
+        "user": {
+            "name": "bruce banner",
+            "email": "bruce@gmail.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "construir maquina raio gama"
+            }
+    }
+}

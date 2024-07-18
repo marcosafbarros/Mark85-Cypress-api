@@ -1,0 +1,30 @@
+{
+    "login": {
+        "name": "Lucas Guedes",
+        "email": "Lucas@gmail.com",
+        "password": "12345"
+    },
+    "inv_pass":{
+        "email": "marcos.aferreira97@gmail.com",
+        "password": "1234"
+    },
+    "email_404":{
+        "email": "mar97@gmail.com",
+        "password": "1234"
+    },
+    "create":{
+        "name": "Marcos Adriano",
+        "email": "Marcos@gmail.com",
+        "password": "ma12345"
+    },
+    "dup_email":{
+        "name": "james gun",
+        "email": "james@hotmail.com",
+        "password": "ma12345"
+    },
+    "required":{
+        "name": "margot robbie",
+        "email": "margot@hotmail.com",
+        "password": "123456"
+    }
+}

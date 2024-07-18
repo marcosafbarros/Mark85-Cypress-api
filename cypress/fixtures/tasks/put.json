@@ -1,0 +1,25 @@
+{
+    "update": {
+        "user": {
+            "name": "leo santana",
+            "email": "leo@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "fazer o L",
+            "tags": [
+                "GG"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "steve wonder",
+            "email": "wonder@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "tocar piano"
+        }
+    }
+}

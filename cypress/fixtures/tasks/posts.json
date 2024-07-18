@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Papito",
+            "email": "papito@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "estudar",
+            "tags": [
+                "papito",
+                "mentoria",
+                "linkedin"
+            ]
+        }
+    },
+    "dup": {
+        "user": {
+            "name": "jean grey",
+            "email": "jean@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "compras"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "remove": {
+        "user": {
+            "name": "peter parker",
+            "email": "park@hotmail.com",
+            "password": "123345"
+        },
+        "task":
+            {
+                "name": "construir o lancador de teias",
+                "tags": [
+                    "reator",
+                    "nano",
+                    "teias"
+                ]
+            }
+    },
+    "not_found": {
+        "user": {
+            "name": "bruce wayne",
+            "email": "bruce@gmail.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "design armadura"
+            }
+    }
+}
